@@ -1,0 +1,6 @@
+ghost:
+  build: ./ghost
+  volumes:
+    - ./ghost-override:/ghost-override
+  ports:
+    - 80:2368
