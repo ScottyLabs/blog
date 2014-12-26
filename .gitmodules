@@ -1,3 +1,6 @@
 [submodule "ghost"]
 	path = ghost
 	url = https://github.com/dockerfile/ghost
+[submodule "ghost-override/content/themes/crush"]
+	path = ghost-override/content/themes/crush
+	url = https://github.com/cbanowsky/crush
