@@ -1,3 +1,4 @@
 .*.sw[nop]
 tags
 /ghost-override/content/data/*
+/ghost-override/content/images/*
